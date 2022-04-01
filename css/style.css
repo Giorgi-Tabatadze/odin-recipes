@@ -1,0 +1,19 @@
+*{
+    background-color: wheat;
+}
+
+h3{
+    color: darkslategray;
+}
+img{
+    height: auto;
+    width: 400px;
+    text-align: center;
+}
+a{
+    color: green;
+
+}
+a:visited{
+    color: blueviolet;
+}
